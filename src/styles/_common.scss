@@ -1,0 +1,29 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.sticky-header-table {
+  width: 100%;
+
+  .q-table__top,
+  .q-table__bottom,
+  thead tr:first-child th {
+    @apply bg-gray-100;
+    font-weight: 700;
+  }
+
+  thead tr th {
+    position: sticky;
+    z-index: 1;
+  }
+  /* this will be the loading indicator */
+  thead tr:last-child th {
+    /* height of all previous header rows */
+    top: 48px;
+  }
+  thead tr:first-child th {
+    top: 0;
+  }
+}

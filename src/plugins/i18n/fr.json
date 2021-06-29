@@ -1,0 +1,35 @@
+{
+  "topNav": {
+    "title": "FR Planto",
+    "libertyLink": "FR Go to Liberty"
+  },
+  "page": {
+    "titles": {
+      "devices": "FR Devices",
+      "unauthorized": "FR Unauthorized - Please Sign-In",
+      "forbidden": "FR Forbidden - You have no permission to view this page.",
+      "notFound": "FR Page Not Found"
+    }
+  },
+  "common": {},
+  "notifications": {
+    "updateSucceed": "FR Update Succeed.",
+    "updateFailed": "FR Update Failed."
+  },
+  "validations": {
+    "invalidRule": "FR Invalid Validation Rule",
+    "required": "FR Required",
+    "notEmpty": "FR Required",
+    "date": "FR Invalid Date",
+    "dateBefore": "FR Invalid Date",
+    "dateAfter": "FR Invalid Date",
+    "function": "FR Invalid",
+    "isType": "FR Invalid Type",
+    "number": "FR Invalid Number",
+    "string": "FR Invalid String",
+    "boolean": "FR Invalid Boolean",
+    "object": "FR Invalid Object",
+    "array": "FR Invalid Array",
+    "between": "FR Must between {0} and {1}"
+  }
+}

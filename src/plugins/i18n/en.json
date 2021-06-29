@@ -1,0 +1,42 @@
+{
+  "topNav": {
+    "title": "Planto",
+    "libertyLink": "Go to Liberty"
+  },
+  "routes": {
+    "devices": "Devices",
+    "products": "Products",
+    "home": "Home",
+    "about": "About",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "admin-devices": "Devices",
+    "admin-device": "Device",
+    "unauthorized": "Unauthorized - Please Sign-In",
+    "forbidden": "Forbidden - You have no permission to view this page.",
+    "notFound": "Page Not Found"
+  },
+  "common": {
+    "signOut": "Sign Out"
+  },
+  "notifications": {
+    "updateSucceed": "Update Succeed.",
+    "updateFailed": "Update Failed."
+  },
+  "validations": {
+    "invalidRule": "Invalid Validation Rule",
+    "required": "Required",
+    "notEmpty": "Required",
+    "date": "Invalid Date",
+    "dateBefore": "Invalid Date",
+    "dateAfter": "Invalid Date",
+    "function": "Invalid",
+    "isType": "Invalid Type",
+    "number": "Invalid Number",
+    "string": "Invalid String",
+    "boolean": "Invalid Boolean",
+    "object": "Invalid Object",
+    "array": "Invalid Array",
+    "between": "Must between {0} and {1}"
+  }
+}
