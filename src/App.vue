@@ -11,7 +11,7 @@ const router = useRouter();
 const { isLoading } = useLoading();
 
 useHead({
-  title: "Planto ",
+  title: "Planto",
   meta: [
     { name: "description", content: "planto - the automated plant grow showcase." },
   ],
